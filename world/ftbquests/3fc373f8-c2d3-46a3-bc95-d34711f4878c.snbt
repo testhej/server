@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "3fc373f8c2d346a3bc95d34711f4878c"
+	name: "TheCrazyGaming7"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1674584754527L
+		159872B988A173AA: 1674584754527L
+		731686C758AD9A99: 1674584754527L
+		0000000000000001: 1674584754527L
+	}
+	completed: {
+		159872B988A173AA: 1674584754531L
+		731686C758AD9A99: 1674584754531L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,24 @@
+{
+	id: "3fc373f8-c2d3-46a3-bc95-d34711f4878c"
+	type: "player"
+	player_name: "TheCrazyGaming7"
+	ranks: {
+		3fc373f8-c2d3-46a3-bc95-d34711f4878c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheCrazyGaming7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5971FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

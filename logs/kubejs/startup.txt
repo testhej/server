@@ -1,0 +1,6 @@
+[19:29:35] [INFO ] Loaded script startup_scripts:custom_additions.js in 0.236 s
+[19:29:35] [INFO ] startup_scripts:mysticalagriculture.js:1: Loaded Java class 'com.blakebr0.mysticalagriculture.api.MysticalAgricultureAPI'
+[19:29:35] [INFO ] Loaded script startup_scripts:mysticalagriculture.js in 0.007 s
+[19:29:35] [INFO ] Loaded script startup_scripts:settings.js in 0.016 s
+[19:29:35] [INFO ] Loaded script startup_scripts:worldgen.js in 0.015 s
+[19:29:35] [INFO ] Loaded 4/4 KubeJS startup scripts in 1.053 s
